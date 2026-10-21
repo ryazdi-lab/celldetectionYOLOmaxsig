@@ -1,0 +1,8 @@
+
+# Steel Defect Detection Dataset Configuration
+train: /home/jupyter-r.yazdi/myproject/ryazdi/dti3d/0pycodes/CellDetection/BCCD/images/train
+val: /home/jupyter-r.yazdi/myproject/ryazdi/dti3d/0pycodes/CellDetection/BCCD/images/val
+
+nc: 3
+names: ['WBC', 'RBC','Platelets']
+
